@@ -5,7 +5,7 @@ To run app:
 
   2. cd s redux
 
-  3. yarn install
+  3. npm install
 
-  4. yarn run start
+  4. npm start
 ```
